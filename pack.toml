@@ -1,0 +1,13 @@
+name = "Jimmys Stupid Modpack"
+author = "ViceRabbit"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e7e7d52a4550c14474ecb2023296ddd7dc4b0644ee0584e9d7ab9b16e0872183"
+
+[versions]
+fabric = "0.14.25"
+minecraft = "1.20.1"
