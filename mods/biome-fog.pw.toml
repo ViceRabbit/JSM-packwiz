@@ -1,0 +1,13 @@
+name = "Biome Fog"
+filename = "biome-fog-1.1.1+mc1.19.3_or_higher.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "43108f507859460e039869e0faea3d783eef5b09"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4712448
+project-id = 855301

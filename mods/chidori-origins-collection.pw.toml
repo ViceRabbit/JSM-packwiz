@@ -1,0 +1,13 @@
+name = "Chidori Origins Collection"
+filename = "chidori_origins-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3f63a30f8fe746dbf9bdc137c2edfb1a1b44fd80"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4683976
+project-id = 889959
