@@ -1,0 +1,13 @@
+name = "Missiles & Explosions"
+filename = "missiles-0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7468deb47aec8e62c71ee6031b4eaadd83ac9ece"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4643548
+project-id = 874717

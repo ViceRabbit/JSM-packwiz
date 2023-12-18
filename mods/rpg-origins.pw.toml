@@ -1,0 +1,13 @@
+name = "RPG Origins"
+filename = "RPGOrigins-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "228ce55c92f91d1ab6f580e025c1e8410233a1be"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4775946
+project-id = 638230
