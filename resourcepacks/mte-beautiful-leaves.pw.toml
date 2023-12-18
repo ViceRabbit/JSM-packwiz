@@ -1,0 +1,13 @@
+name = "MTE's Beautiful Leaves"
+filename = "MTE's Beautiful Leaves.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b33971c70423c79936f66b3ec138ebf9019897e6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4591784
+project-id = 568340

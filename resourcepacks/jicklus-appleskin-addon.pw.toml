@@ -1,0 +1,13 @@
+name = "JICKLUS Appleskin Addon"
+filename = "JICKLUS Appleskin Addon 1.20.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "25b83d2d649f2c97a1ec5ddfb5d137ce53c6a5ca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4775976
+project-id = 914752

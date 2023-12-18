@@ -1,0 +1,13 @@
+name = "JICKLUS"
+filename = "JICKLUS.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "46f3f3625c45948cf0310338b1f5e3e7be264509"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4642388
+project-id = 333412
