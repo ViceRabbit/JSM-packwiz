@@ -2067,6 +2067,11 @@ hash = "c96d036d938c0e7df330b8f162343e7f9ad82d6d845a468deff2976d31c2d4f6"
 metafile = true
 
 [[files]]
+file = "mods/medieval-deco.pw.toml"
+hash = "27b0c413f2a5779ed5ef84fd9f8e71c64b7375ad8bdf3468294637c3df8a47ae"
+metafile = true
+
+[[files]]
 file = "mods/medieval-origins-revival.pw.toml"
 hash = "8d2e251e850bb3f5df897646391f34b78db8a48886924228a578c92bb22c6d3c"
 metafile = true
@@ -2209,6 +2214,11 @@ hash = "c7779da4fc55cd62dd3941717e857458b38c0fbbfc0221b6f265c8c6a7498cb6"
 metafile = true
 
 [[files]]
+file = "mods/sodium.pw.toml"
+hash = "ba87b9df6bf76547fe4aaf18d248348dddc531f9bfb107a92bfe4a7ebdb6f752"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "b6a30bd17926d299f9ff77730617675bf357f05405b8ef6d2b52be99fe5565bb"
 metafile = true
@@ -2330,4 +2340,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/jicklus.pw.toml"
 hash = "d56de56052263433f7d0660adb6b4f0c670437a20e2e3393c1554fef5d774259"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mte-beautiful-leaves.pw.toml"
+hash = "dfa7de0880863cca8da7bc0883852a3daa35a867c355f1ef48337269bb43e86e"
 metafile = true
